@@ -39,9 +39,9 @@
                 </div>
             </div>
             <div class="row images">
-                <div class="col-md-4"><img src="assets/Bhartiya-Alankar-Jewellers1.png" alt=""></div>
-                <div class="col-md-4"><img src="assets/Bhartiya-Alankar-Jewellers2.png" alt=""></div>
-                <div class="col-md-4"><img src="assets/Bhartiya-Alankar-Jewellers3.png" alt=""></div>
+                <div class="col-md-4"><img src="assets/maavaishnojewellers1.jpg" alt=""></div>
+                <div class="col-md-4"><img src="assets/maavaishnojewellers2.jpg" alt=""></div>
+                <div class="col-md-4"><img src="assets/maavaishnojewellers3.jpg" alt=""></div>
             </div>
             <div class="row content justify-content-md-center">
                 <div class="col-md-8">

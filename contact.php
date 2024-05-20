@@ -83,7 +83,7 @@ function sendEmail() {
                 <div class="container text-center content">
                     <h4>Write To Us</h4>
                     <p>Assistance with questions and concerns.</p>
-                    <p>Have questions about our products or services? Need assistance? We're here for you! Just drop us a line below, and one of our team members will reach out to help you. Whether it's inquiries, feedback, or just saying hi, we'll make sure to take care of anything you need. So go ahead, don't hesitate to get in touch!
+                    <p>Got any questions about what we offer or need a hand? We've got your back! Just leave us a message, and someone from our team will get back to you ASAP. Whether you need info, want to share feedback, or simply want to chat, we're here to assist with anything you need. So, go ahead, reach out to us without any hesitation!
 </p>
                 </div>
             </div>

@@ -2,7 +2,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-8 footer-nav">
-                        <img src="assets/logo.png" alt="Bhartiya logo" width="150">
+                        <img src="assets/logo.png" alt=" Maa Vaishno Jewellers logo" width="150">
                         <ul>
                             <li><a href="about.php">About</a></li>
                             <!-- <li><a href="media.php">Media</a></li> -->

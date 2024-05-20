@@ -28,7 +28,7 @@
         <section class="container">
             <div class="row">
                 <div class="col-md-8 novelties-image">
-                    <img src="assets/silverbracelet.png" alt="unavailable">
+                    <img src="assets/goldbracelet.jpg" alt="unavailable">
                 </div>
                 <div class="col-md-4 novelties">
                     <h4>Uniqueness</h4>
@@ -62,7 +62,7 @@
             </div>
             <div class="row">
                 <div class="col product first-child">
-                    <img src="assets/bangle1.png" alt="bangle1.png" width="300">
+                    <img src="assets/bangle11.jpg" alt="bangle11.jpg" width="300">
                     <div class="featured-product-content">
                         <h4>High quality craftsmanship</h4>
                         <p>Precision, quality and finish</p>
@@ -70,7 +70,7 @@
                     </div>
                 </div>
                 <div class="col product last-child">
-                    <img src="assets/bangle2.png" alt="bangle2.png" width="300">
+                    <img src="assets/bangle12.jpg" alt="bangle12.jpg" width="300">
                     <div class="featured-product-content">
                         <h4>Customized design and Attention to Detail</h4>
                         <p>Bespoke pieces with exemplary execution by masterful jewellers.</p>
