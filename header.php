@@ -1,5 +1,8 @@
 <header class="logo-header">
-            <img src="assets/logo.png" alt="This is alt">
+            <!-- <img src="assets/logo.png" alt="This is alt"> -->
+            <img src="assets/logo.png" alt="This is alt" style="width: 250px; height: auto;">
+            
+     
         </header>
 
         <nav class="navigation">
