@@ -1,6 +1,7 @@
 <header class="logo-header">
+<h2 style="color: wheat;">Maa Vaishno Jewellers</h2>
             <!-- <img src="assets/logo.png" alt="This is alt"> -->
-            <img src="assets/logo.png" alt="This is alt" style="width: 250px; height: auto;">
+            <img src="assets/logo.png" alt="This is alt" style="width: 190px; height: auto;">
             
      
         </header>
